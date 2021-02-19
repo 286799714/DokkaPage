@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+cxplugins.cxfundamental.minecraft.command
+cxplugins.cxfundamental.minecraft.datastructure
+cxplugins.cxfundamental.minecraft.file
+cxplugins.cxfundamental.minecraft.kotlindsl
+cxplugins.cxfundamental.minecraft.math
+cxplugins.cxfundamental.minecraft.server
+cxplugins.cxfundamental.minecraft.server.nms
+cxplugins.cxfundamental.minecraft.server.nms.itemnbt
+cxplugins.cxfundamental.minecraft.ui
+cxplugins.plugins.cxpoint
+
